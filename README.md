@@ -2,7 +2,7 @@
 
 ## A preview card to pratice tailwind with.
 
-![CHEESE!](images/preview.png)
+![CHEESE!](images/previewcard.jpg)
 
 this project was built and is still undergoing the build process, designed to pratice tailwind with the following features:
 * writing lesser custom css
